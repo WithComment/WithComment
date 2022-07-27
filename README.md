@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WithComment
+👋 Hi, I’m @WithComment
 
 <!---
 WithComment/WithComment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
